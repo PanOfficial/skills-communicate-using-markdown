@@ -3,6 +3,9 @@
 # Header
   
 </header>
+- [ ] List syntax is required
+- [ ] This item is complete
+- [ ] This item is not complete
 ()#{1,6}([ \t](.*))?$
 
 ?<!#
